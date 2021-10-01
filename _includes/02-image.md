@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Reiner Opitz at by the falls](https://user-images.githubusercontent.com/90814876/135680698-da9ccab3-ac75-4f8e-82fd-68f16fbb8dc0.JPG)
